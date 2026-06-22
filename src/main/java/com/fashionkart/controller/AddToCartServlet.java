@@ -26,8 +26,13 @@ public class AddToCartServlet extends HttpServlet {
         
         // Note: Since we don't have size/color dropdowns on the UI yet, we set defaults. 
         // We can add dropdowns later if you decide to.
-        String defaultSize = "M"; 
-        String defaultColor = "Standard";
+     // Try to get the size and color the user selected from product.jsp
+        String defaultSize = request.getParameter("size"); 
+        String defaultColor = request.getParameter("color");
+        
+        // If they clicked "Add to Cart" directly from the main shop page without picking, set fallbacks
+        if(defaultSize == null || defaultSize.isEmpty()) defaultSize = "M";
+        if(defaultColor == null || defaultColor.isEmpty()) defaultColor = "Standard";
 
         // 2. Fetch the product details from the database so we know the price
         ProductDAO productDAO = new ProductDAOImpl();
