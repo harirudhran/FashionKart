@@ -108,13 +108,13 @@ Open your browser and navigate to http://localhost:8080/FashionKart/ (URL may va
 📸 Screenshots
 (Note: Replace these with actual image links once you upload screenshots to your repository)
 
-Homepage: ![Homepage](link-to-image)
+Homepage: ![Homepage](https://drive.google.com/file/d/1v5H4LHmnCwmb8SjaAYdqWQufCaypaEVl/view?usp=sharing)
 
-Dynamic Shop Page: ![Shop Page](link-to-image)
+Dynamic Shop Page: ![Shop Page](https://drive.google.com/file/d/1vwJSRGuSyfKMzkr9EDCkwELQbfP7C3ck/view?usp=sharing)(https://drive.google.com/file/d/1BPCyXqqOzQIoRPQDgRp1ZmNskGNJ8uzC/view?usp=sharing)
 
-Cart & Checkout: ![Cart](link-to-image)
+Cart & Checkout: ![Cart](https://drive.google.com/file/d/1s-Mcb_1AiNFpNHxXeTAPXzCH84JygKAJ/view?usp=sharing)
 
-Login/Register: ![Authentication](link-to-image)
+Login/Register: ![Authentication](https://drive.google.com/file/d/1U0VZd2cV4K_ZXbPmq31fmRucCo3aRgvt/view?usp=sharing)
 
 👨‍💻 Author
 Hari Rudhran M
